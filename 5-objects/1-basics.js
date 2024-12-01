@@ -34,8 +34,8 @@ console.log(jon['age']); // -> 34
 
 
 let jon = {
-    firstName: 'Jon',
-    lastName: 'Smith',
+    firstName: 'Son',
+    lastName: 'Smithh',
     age: 34,
     profession: 'Developer',
     married: true
@@ -56,5 +56,5 @@ console.log(jon); // ->
 */
 
 
-let obj = {};
-console.log(obj.xyz); // -> undefined
+let obj = { };
+console.log( obj.xyz ); // -> undefined
